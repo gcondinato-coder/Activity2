@@ -14,3 +14,4 @@ codingFact = favoriteLanguage + ", you can build websites and even mobile apps!"
 console.log(`${codingFact}`);
 console.log("It was fun sharing these facts with you. Goodbye! - " + botName + " from " + botLocation + ".");
 
+Changes
